@@ -12,11 +12,13 @@ html {
     color: #333333;
     background-color: #ffffff;
     -webkit-font-smoothing: antialiased;
+    
   }
   
   a {
     text-decoration: none;
     color: #333;
+    
   }
   
   a img {
@@ -232,6 +234,9 @@ html {
     font-size: 26px;
     line-height: 40px;
   }
+  #work a{
+    color: #fafafa;
+  }
   
   .row {
     clear: both;
@@ -240,13 +245,13 @@ html {
   .portfolio-thumb {
     width: 45%;
     margin: 20px;
-    background-color: white;
+    background-color: #7395AE;
     display: inline-block;
     /*//height: 500px;*/
   }
   
   .portfolio-thumb img {
-    width: 100%;
+    width: 50%;
   }
   
   .portfolio-thumb p {
