@@ -280,6 +280,9 @@ html {
     font-size: 12px;
     line-height: 20px;
   }
+  #footer a{
+    color: #3a92c8
+  }
   
   /*TOC*/
   .container {
