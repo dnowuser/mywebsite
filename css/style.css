@@ -43,7 +43,7 @@ html {
     text-transform: uppercase;
     text-align: center;
     width: 100%;
-    background-color: #5d5c61;
+    background-color: #7395ae;
     line-height: 100px;
     font-size: 15px;
     z-index: 1000;
@@ -124,7 +124,7 @@ html {
     padding: 40px;
     height: 620px;
     margin:0 auto;
-    background: #383737;
+    background: #3d3c41;
   }
   
   span.answer {
@@ -251,14 +251,14 @@ html {
   }
   
   .portfolio-thumb img {
-    width: 50%;
+    width: 100%;
   }
   
   .portfolio-thumb p {
     font-size: 14px;
     padding: 25px;
     padding-top: 0px;
-    text-align: left;
+    text-align: left; 
     line-height: 24px;
   }
   
@@ -269,6 +269,9 @@ html {
   .portfolio-big {
     width: 95%;
    /* height: 680px;*/
+  }
+  .portfolio-small{
+    width: 70%
   }
   
   #footer{
@@ -348,11 +351,11 @@ html {
     padding-right: 30px;
     padding-top: 45px;
     width: 100%;
-    background: #5d5c61;
+    background: #7395ae;
   }
   
   a.toc-link:hover {
-    background: #5d5c61;
+    background: #7395ae;
   }
   
   .toc-link span {
@@ -380,7 +383,7 @@ html {
     text-align: center;
     opacity: .5;
     right:0px;
-    background: #5d5c61;
+    background: #7395ae;
     width: auto;
     padding-top: 60px;
   }
